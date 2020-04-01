@@ -1,8 +1,9 @@
 import React from 'react';
+import Logon from './pages/logon/index';
 
 function App() {
   return (
-      <h1></h1>
+    <Logon></Logon>
   );
 }
 
