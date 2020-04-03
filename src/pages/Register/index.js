@@ -31,7 +31,7 @@ export default function Register(){
             <input placeholder="UF" style={{width:80}}/>
           </div>
 
-          <button class="button" type="submit">Cadastrar</button>
+          <button className="button" type="submit">Cadastrar</button>
 
         </form>
       </div>
