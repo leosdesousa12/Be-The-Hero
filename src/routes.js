@@ -7,6 +7,9 @@ import Profile from './pages/Profile';
 import NewIncident from './pages/NewIncident';
 
 export default function Routes(){
+    const nameOng = localStorage.getItem('ongName');
+    const ongId = localStorage.getItem('ongId');
+    
     return (
         <BrowserRouter>
             <Switch>
