@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Icon" src="./backend/assets/logo.svg" width="120"/>
+  <img alt="Icon" src="./frontend/src/assets/logo.svg" width="120"/>
 </p>
 <h1 align="center">
   Be The Hero
