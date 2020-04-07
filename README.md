@@ -24,6 +24,15 @@ Aplicação Be The Hero é um projeto desenvolvido na semana OmniStack promovido
 A aplicação possibilita que uma ONG crie uma conta no sistema e possa cadastrar ações que ela atua, para que pessoas entrem em contato com o intuito de ajudar essas causas. 
 <h1>
 
+## Tecnologias
+<ul>
+  <li>Backend: Node.js</li>
+  <li>FrontEnd: Reac</li>
+  <li>Mobile: ReactNative</li>
+</ul>
+<h1>
+
+
 ## Backend
  Para Executar o bakend, abra o terminal e vá até onde baixou esse repositório, entre na pasta raiz do backend.
 
@@ -76,3 +85,16 @@ Temos um exemplo de como ficam listados os casos cadastrados pela ONG que está 
 
 ![cadastroCaso](https://user-images.githubusercontent.com/41653562/78462169-f298c100-76a5-11ea-9f92-1297f05d88c5.png)
 <h1>
+
+
+
+## Aplicativo
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/41653562/78614860-3296aa00-7846-11ea-9730-78ee438cbb57.jpeg" width="250" height="auto" />
+</p>
+<h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/41653562/78614851-30345000-7846-11ea-833c-83797afd1cfe.jpeg" width="250" height="auto" />
+</p>
